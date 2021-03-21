@@ -24,23 +24,23 @@ body, html{
  }
  
  .pimg1{
-   background-image:url('/Img/img1.jpg');
+   background-image:url('../Img/img1.jpg');
    background-position-y: top;
    min-height:100%;
  }
  
  .pimg2{
-   background-image:url('/Img/img2.jpg');
+   background-image:url('../Img/img2.jpg');
    min-height:400px;
  }
  
  .pimg3{
-   background-image:url('/Img/img3.jpg');
+   background-image:url('../Img/img3.jpg');
    min-height:400px;
  }
 
  .pimg4{
-   background-image:url('/Img/img4_teste.png');
+   background-image:url('../Img/img4_teste.png');
    min-height:100%;
  }
  
