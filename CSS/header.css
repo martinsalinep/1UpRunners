@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.menu {
+   font-family:"Lato", sans-serif;
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 0;
+}
+
+.item {
+   padding: 1rem;
+   list-style: none;
+}
+
+.link {
+   color:#89fc00;
+   text-shadow: 3px 3px 3px #000000;
+   font-size: 1.5rem;
+   font-weight: 500;
+   text-decoration: none;
+}
